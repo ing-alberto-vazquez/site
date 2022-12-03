@@ -19,7 +19,7 @@
     <div class="box1">
         <header class="headercancermama">
             <input type="text" class="form-control" id="busqueda" name="busqueda" value="" placeholder="Buscar...">
-            <span id="cabecera">Cancer de MAMA VISTA 1</span>
+            <span id="cabecera">Cancer de MAMA VISTA</span>
 
         </header>
         <?php session_start();
